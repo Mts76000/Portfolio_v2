@@ -1,0 +1,24 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+
+.accueil {
+    background-image: url(fond\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+a {
+    text-decoration: none;
+    color: gray; 
+   }
+
+   
